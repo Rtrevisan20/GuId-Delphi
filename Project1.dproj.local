@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/30 11:40:22.000.971,=C:\Users\renat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/30 18:57:40.000.952,=C:\Users\renat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/31 11:31:17.000.548,=C:\Users\renat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/31 16:22:35.000.136,=C:\Users\renat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/01 10:07:01.000.499,=C:\Users\renat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/20 09:20:15.000.828,=C:\Users\renat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/01/20 09:20:22.000.970,=C:\Users\renat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/01/27 10:08:54.000.129,=C:\Users\renat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/01/27 10:14:44.000.114,C:\Users\renat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm=D:\Infortech Sistemas\Ambisoft Testes\GuID\Unit2.dfm</Transaction>
+    <Transaction>2022/01/27 10:14:44.000.114,C:\Users\renat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas=D:\Infortech Sistemas\Ambisoft Testes\GuID\Unit2.pas</Transaction>
+    <Transaction>2022/01/27 10:14:46.000.202,C:\Users\renat\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\Infortech Sistemas\Ambisoft Testes\GuID\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
